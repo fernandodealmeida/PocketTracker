@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Tracker</string>
+    <string name="adicionar">Adicionar Novo</string>
+    <string name="buscar">Buscar</string>
+<!--     <string name="icoTf">Ico:</string> Maybe on the 2.0... -->
+    <string name="lbNome">Nome:</string>
+    <string name="lbValor">Valor:</string>
+    <string name="lbData">Data:</string>
+    <string name="lbNomeEdita">EditarValor:</string>
+    <string name="lbValorEdita">BuscarValor:</string>
+</resources>
